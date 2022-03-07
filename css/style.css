@@ -1,0 +1,60 @@
+body{
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Odin-title{
+    text-align: center;
+    font-weight: bold;
+
+}
+.img-main{
+    height: auto;
+    width: 40%;
+   
+}
+.img-main.Recipe{
+    height: auto;
+    width: 100%;
+
+}
+.Food{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: ghostwhite;
+}
+
+.Food.Pizza{
+    color: red;
+}
+.Food.Bread{
+    color: brown;
+}
+.Food.Ice-Cream{
+    color: black;
+}
+
+.Title-Food{
+    font-weight: 900;
+    font-style: normal;
+    text-align: left;
+    background-color: black;
+    color: white;
+}
+
+.Description{
+background-color: black;
+color: white;
+}
+
+.Subtitles{
+    color: rgb(76, 0, 255);
+    background-color: white;
+    font-weight: 1000;
+}
+
+.un-list li{
+    font-style: italic;
+}
+
+.ord-list li{
+    font-style: oblique;
+}
